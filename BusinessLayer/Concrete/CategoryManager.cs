@@ -36,7 +36,7 @@ namespace BusinessLayer.Concrete
         //}
         public List<Category> GetList()
         {
-            return 
+            return
         }
     }
 }
